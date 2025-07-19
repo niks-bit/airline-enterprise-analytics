@@ -1,0 +1,101 @@
+feedback_id,flight_id,rating,comment_summary,seat_comfort,service_quality,would_recommend
+500,1000,1.8,Average experience,3,5,Yes
+501,1001,4.9,Could be better,2,1,No
+502,1002,4.1,Could be better,5,1,Yes
+503,1003,3.2,Excellent service,1,5,Yes
+504,1004,3.8,Friendly crew,5,4,Yes
+505,1005,3.0,Excellent service,2,2,Yes
+506,1006,4.0,Comfortable seats,4,4,Yes
+507,1007,3.0,Very delayed,4,2,Yes
+508,1008,3.3,Excellent service,2,2,No
+509,1009,1.8,Excellent service,5,2,No
+510,1010,4.5,Excellent service,5,3,No
+511,1011,3.4,Excellent service,3,3,No
+512,1012,2.5,Could be better,4,4,Yes
+513,1013,4.0,Very delayed,5,1,Yes
+514,1014,1.7,Very delayed,2,1,Yes
+515,1015,4.4,Excellent service,5,4,Yes
+516,1016,2.4,Excellent service,5,2,No
+517,1017,1.8,Very delayed,4,3,No
+518,1018,4.7,Friendly crew,5,2,Yes
+519,1019,2.0,Friendly crew,5,2,No
+520,1020,3.6,Average experience,2,4,Yes
+521,1021,2.5,Excellent service,2,3,Yes
+522,1022,1.7,Very delayed,5,1,Yes
+523,1023,2.0,Friendly crew,1,4,No
+524,1024,4.8,Comfortable seats,1,2,No
+525,1025,1.8,Excellent service,3,1,Yes
+526,1026,2.1,Excellent service,4,1,No
+527,1027,2.4,Very delayed,2,1,Yes
+528,1028,5.0,Very delayed,2,5,Yes
+529,1029,2.1,Could be better,1,4,Yes
+530,1030,4.2,Friendly crew,1,5,Yes
+531,1031,4.4,Could be better,1,1,Yes
+532,1032,2.5,Very delayed,2,3,Yes
+533,1033,4.9,Friendly crew,3,1,Yes
+534,1034,3.7,Average experience,3,1,No
+535,1035,2.8,Very delayed,3,5,No
+536,1036,4.3,Could be better,1,2,Yes
+537,1037,1.8,Could be better,4,2,No
+538,1038,3.0,Average experience,2,2,No
+539,1039,4.5,Very delayed,3,3,No
+540,1040,3.0,Could be better,3,4,Yes
+541,1041,3.3,Could be better,2,5,Yes
+542,1042,3.3,Friendly crew,3,2,No
+543,1043,4.4,Average experience,5,2,No
+544,1044,2.1,Friendly crew,1,2,No
+545,1045,4.4,Friendly crew,3,4,Yes
+546,1046,2.5,Excellent service,5,1,Yes
+547,1047,1.8,Excellent service,2,3,Yes
+548,1048,1.8,Excellent service,2,4,Yes
+549,1049,4.5,Comfortable seats,1,4,Yes
+550,1050,1.6,Average experience,4,5,Yes
+551,1051,4.2,Average experience,4,5,Yes
+552,1052,3.0,Average experience,5,2,No
+553,1053,3.5,Friendly crew,2,3,No
+554,1054,1.9,Could be better,4,2,Yes
+555,1055,4.3,Very delayed,3,5,No
+556,1056,2.2,Average experience,4,4,No
+557,1057,2.8,Very delayed,5,3,Yes
+558,1058,2.4,Average experience,3,4,No
+559,1059,1.9,Very delayed,2,1,Yes
+560,1060,2.6,Excellent service,1,2,Yes
+561,1061,2.3,Could be better,1,1,Yes
+562,1062,4.4,Comfortable seats,3,5,Yes
+563,1063,2.1,Very delayed,1,5,No
+564,1064,4.1,Could be better,5,4,Yes
+565,1065,2.4,Could be better,1,3,Yes
+566,1066,2.0,Very delayed,2,5,No
+567,1067,4.6,Very delayed,1,5,Yes
+568,1068,4.7,Friendly crew,2,4,No
+569,1069,2.2,Excellent service,4,2,No
+570,1070,2.3,Very delayed,1,4,Yes
+571,1071,3.5,Excellent service,2,3,No
+572,1072,1.8,Average experience,4,2,Yes
+573,1073,1.7,Average experience,4,2,Yes
+574,1074,2.8,Comfortable seats,4,1,Yes
+575,1075,2.1,Friendly crew,2,5,No
+576,1076,1.7,Excellent service,1,1,No
+577,1077,2.1,Excellent service,1,5,Yes
+578,1078,4.5,Excellent service,2,1,Yes
+579,1079,1.6,Very delayed,1,3,No
+580,1080,4.4,Friendly crew,1,2,No
+581,1081,3.4,Could be better,2,2,No
+582,1082,4.9,Comfortable seats,3,2,Yes
+583,1083,4.6,Very delayed,1,2,No
+584,1084,4.5,Could be better,5,4,Yes
+585,1085,4.0,Average experience,2,4,No
+586,1086,5.0,Excellent service,4,5,Yes
+587,1087,4.4,Comfortable seats,4,2,Yes
+588,1088,3.6,Friendly crew,1,1,Yes
+589,1089,2.2,Could be better,1,3,No
+590,1090,3.6,Very delayed,4,4,Yes
+591,1091,2.6,Average experience,2,2,Yes
+592,1092,1.8,Friendly crew,4,5,Yes
+593,1093,4.4,Average experience,2,5,No
+594,1094,1.6,Friendly crew,3,4,Yes
+595,1095,4.9,Could be better,3,5,Yes
+596,1096,3.1,Comfortable seats,3,5,No
+597,1097,2.3,Comfortable seats,2,2,No
+598,1098,2.5,Average experience,3,1,No
+599,1099,2.0,Comfortable seats,5,3,No
