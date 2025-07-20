@@ -3,7 +3,7 @@
 **Author:** Nikki Dobles  
 **Tools Used:** SQL, Tableau Public  
 **Datasets:** `flights.csv`, `feedback.csv`  
-**Duration:** 1 week of mock data simulating Cebu Pacific’s domestic operations  
+**Duration:** 1 week of mock data simulating a local airline's domestic operations  
 
 ---
 
@@ -23,9 +23,8 @@ This case study explores the intersection of airline operational performance and
 |------|-------------|
 | `airline_route_analysis.sql` | Full SQL analysis with structured sections and commentary |
 | `flights.csv` | Flight-level operational data (route, delay, distance, passengers) |
-| `feedback.csv` | Passenger-level feedback data (ratings, seat comfort, recommendation) |
-| `dashboard.twbx` (optional) | Tableau dashboard version of the analysis |
-| `images/dashboard.png` (optional) | Snapshot of final dashboard |
+| `feedback.csv` | Passenger-level feedback data (ratings, seat comfort, recommendation)
+| Snapshot of final dashboard <img width="1200" height="926" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/fca6d7e6-2077-4cbc-a778-8780740dd652" />
 
 ---
 
@@ -71,9 +70,7 @@ We started wide by identifying high-impact routes. Then we challenged a common a
 > - Average rating by delay category  
 > - Route experience + loyalty table
 
-🔗 *Link to Tableau Public (if available)*  
-🖼 *Or include an image like:*  
-![Dashboard Preview](images/dashboard.png)
+🖼 * Dashboard preview: <img width="1200" height="926" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/fca6d7e6-2077-4cbc-a778-8780740dd652" />
 
 ---
 
