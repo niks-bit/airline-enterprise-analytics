@@ -49,15 +49,15 @@ This case study explores the intersection of airline operational performance and
 
 We started wide by identifying high-impact routes. Then we challenged a common assumption: that delays drive dissatisfaction. After disproving that, we focused on the **route-level experience** — and uncovered that **ZAM–DVO** is a high-volume route with experience quality issues, not delay issues.
 
-> 🎯 **ZAM–DVO stands out as the only major route where poor passenger experience — not punctuality — is driving low loyalty**, making it the clearest candidate for targeted customer experience improvement.
+> **ZAM–DVO stands out as the only major route where poor passenger experience — not punctuality — is driving low loyalty**, making it the clearest candidate for targeted customer experience improvement.
 
 ## Dashboard
 
-> Tableau dashboard recreates SQL logic visually  
-> Includes:  
-> - Route-level delay comparison  
-> - Average rating by delay category  
-> - Route experience + loyalty table
+Tableau dashboard recreates SQL logic visually  
+Includes:  
+- Route-level delay comparison  
+- Average rating by delay category  
+- Route experience + loyalty table
 
 <img width="1200" height="926" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/fca6d7e6-2077-4cbc-a778-8780740dd652" />
 
