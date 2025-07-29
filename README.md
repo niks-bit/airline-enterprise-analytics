@@ -59,7 +59,7 @@ We started wide by identifying high-impact routes. Then we challenged a common a
 > - Average rating by delay category  
 > - Route experience + loyalty table
 
-* Dashboard preview: <img width="1200" height="926" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/fca6d7e6-2077-4cbc-a778-8780740dd652" />
+<img width="1200" height="926" alt="Tableau Dashboard" src="https://github.com/user-attachments/assets/fca6d7e6-2077-4cbc-a778-8780740dd652" />
 
 ## How to Run
 
