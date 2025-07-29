@@ -21,7 +21,7 @@ This case study explores the intersection of airline operational performance and
 | `flights.csv` | Flight-level operational data (route, delay, distance, passengers) |
 | `feedback.csv` | Passenger-level feedback data (ratings, seat comfort, recommendation)
 
-## Analysis Outline (`airline_route_analysis.sql`)
+## Analysis Outline (`airline_analysis.sql`)
 
 ### 1.Database Exploration
 - Lists available tables
